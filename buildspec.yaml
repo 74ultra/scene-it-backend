@@ -16,5 +16,5 @@ phases:
         - echo Build completed on `date`
 artifacts:
   files:
-    - scene-it/target/demo-0.0.1-SNAPSHOT.jar
+    - demo/target/demo-0.0.1-SNAPSHOT.jar
   discard-paths: yes
